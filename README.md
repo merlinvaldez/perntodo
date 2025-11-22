@@ -4,7 +4,7 @@ Personal playground for learning the PERN stack (PostgreSQL, Express, React, Nod
 
 ## What's here
 - REST API for todos (`server/`) with PostgreSQL storage; entry point is `server/server.js`.
-- React client scaffolded with Create React App (`client/`), bootstrapped from `client/src/client.js`.
+- React client scaffolded with Create React App (`client/`), bootstrapped from `client/src/index.js`.
 - SQL seed in `server/database.sql` to create the `perntodo` database and `todo` table.
 
 ## Getting started
